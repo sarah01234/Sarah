@@ -1,0 +1,62 @@
+<blocos>
+    <opção>
+        <id>1</id>
+        <nome>Pedra de Granito</nome>
+        <resistência>alta</resistência>
+        <tipo>não natural</tipo>
+    </opção>
+    <opção>
+        <id>2</id>
+        <nome>Tijolos de Pedra</nome>
+        <resistência>média</resistência>
+        <tipo>não natural</tipo>
+    </opção>
+    <opção>
+        <id>3</id>
+        <nome>Terra Arada</nome>
+        <resistência>baixa</resistência>
+        <tipo>natural</tipo>
+    </opção>
+    <opção>
+        <id>4</id>
+        <nome>Minério de Diamante</nome>
+        <resistência>alta</resistência>
+        <tipo>não natural</tipo>
+    </opção>
+    <opção>
+        <id>5</id>
+        <nome>Minério de Ferro</nome>
+        <resistência>alta</resistência>
+        <tipo>não natural</tipo>
+    </opção>
+    <opção>
+        <id>6</id>
+        <nome> Pedra Musgosa</nome>
+        <resistência>média</resistência>
+        <tipo>natural</tipo>
+    </opção>
+    <opção>
+        <id>7</id>
+        <nome>Carvão Vegetal</nome>
+        <resistência>média</resistência>
+        <tipo>natural</tipo>
+    </opção>
+    <opção>
+        <id>8</id>
+        <nome>Quartzo do Nether</nome>
+        <resistência>baixa</resistência>
+        <tipo>não natural</tipo>
+    </opção>
+    <opção>
+        <id>9</id>
+        <nome>Redstone</nome>
+        <resistência>baixa</resistência>
+        <tipo>não natural</tipo>
+    </opção>
+    <opção>
+        <id>10</id>
+        <nome>Areia do Deserto</nome>
+        <resistência>alta</resistência>
+        <tipo>não natural</tipo>
+    </opção>
+</blocos>
